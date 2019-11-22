@@ -1,0 +1,2 @@
+language: cpp
+fprocess: ./handler
